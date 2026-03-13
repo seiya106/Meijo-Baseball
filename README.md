@@ -29,4 +29,6 @@ dataset/
 ## 📁 Data Access / Download
 
 Please download the necessary files from the link below.
-[![Google Drive](https://drive.google.com/file/d/1Beev7quFqZnGf6Ebaccd61EE2WmyV_LR/view?usp=sharing)]
+[![Google Drive](https://img.shields.io/badge/Google%20Drive-Download-blue?logo=googledrive&style=for-the-badge)](https://drive.google.com/file/d/1Beev7quFqZnGf6Ebaccd61EE2WmyV_LR/view?usp=sharing)
+
+> 🔗 Or click here: [Google Drive Link](https://drive.google.com/file/d/1Beev7quFqZnGf6Ebaccd61EE2WmyV_LR/view?usp=sharing)
