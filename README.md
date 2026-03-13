@@ -3,6 +3,7 @@ Due to the large file size of the data used in this project, it is shared via Go
 
 ## 📊 Dataset Details
 This dataset includes two main components: `baseball_s` and `baseball_h`.
+
 `baseball_s`: Includes 3 pitch types: Curve (CV), Fork (FK), and Straight (ST).
 `baseball_h`: Includes 3 pitch types: Cut (CT), Curve (CV), and Straight (ST).
 
