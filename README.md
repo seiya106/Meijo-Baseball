@@ -32,3 +32,20 @@ Please download the necessary files from the link below.
 [![Google Drive](https://img.shields.io/badge/Google%20Drive-Download-blue?logo=googledrive&style=for-the-badge)](https://drive.google.com/file/d/1Beev7quFqZnGf6Ebaccd61EE2WmyV_LR/view?usp=sharing)
 
 > 🔗 Or click here: [Google Drive Link](https://drive.google.com/file/d/1Beev7quFqZnGf6Ebaccd61EE2WmyV_LR/view?usp=sharing)
+
+## Citation
+Please cite the following paper when using this dataset:
+
+-[Recognition of Pitching Habits Using Multimodal Data of RGB Video and Skeleton](https://scholar.google.co.jp/citations?view_op=view_citation&hl=ja&user=_iVNYVgAAAAJ&sortby=pubdate&citation_for_view=_iVNYVgAAAAJ:1DsIQWDZLl8C)
+
+### BibTex
+```bibtex
+@inproceedings{hidaka2025recognition,
+    author = {Hidaka Satoki and Hotta, Kazuhiro},
+    title={Recognition of Pitching Habits Using Multimodal Data of RGB Video and Skeleton},
+    booktitle={2025 International Symposium on Multimedia (ISM)},
+    pages={79--82},
+    year={2025},
+    organization={IEEE}
+}
+```
